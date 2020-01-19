@@ -1,0 +1,36 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://jhonnyvieira.github.io/vieiraag" resolutions="1x" timestamp="1579443842019">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="3893200489" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="404457295" seo="true" ref="index"/>
+    <file name="slide@2x.png" crc="331665075" seo="true" ref="index"/>
+    <file name="mouse.gif" crc="33744440" seo="true" ref="index"/>
+    <file name="retângulo 4.png" crc="225689189" seo="true" ref="index"/>
+    <file name="btn (2).png" crc="4175430213" seo="true" ref="index"/>
+    <file name="grupo 1.png" crc="257750247" seo="true" ref="index"/>
+    <file name="so.png" crc="304672875" seo="true" ref="index"/>
+    <file name="bre.png" crc="265932169" seo="true" ref="index"/>
+    <file name="retângulo 6.png" crc="365401557" seo="true" ref="index"/>
+    <file name="id001@2x.png" crc="3954028761" seo="true" ref="index"/>
+    <file name="grupo 12.png" crc="3942854489" seo="true" ref="index"/>
+    <file name="003.png" crc="52972120" seo="true" ref="index"/>
+    <file name="grupo 2.png" crc="519669356" seo="true" ref="index"/>
+    <file name="dg.png" crc="4246820760" seo="true" ref="index"/>
+    <file name="des.png" crc="110899306" seo="true" ref="index"/>
+    <file name="1md.png" crc="276596658" seo="true" ref="index"/>
+    <file name="004.png" crc="3996109976" seo="true" ref="index"/>
+    <file name="logo-u383.png" crc="4079603426" ref="index"/>
+    <file name="fale-conosco.png" crc="3987417769" seo="true" ref="index"/>
+    <file name="email.png" crc="415800402" seo="true" ref="index"/>
+    <file name="whats.png" crc="4184231769" seo="true" ref="index"/>
+    <file name="pin.png" crc="4261160183" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3826068197" seo="true" mt="1579443815830" redirect="true"/>
+</manifest>
