@@ -1,0 +1,29 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://jhonnyvieira.github.io/vieiraag" resolutions="1x" timestamp="1579468815171">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="462244629" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="404457295" seo="true" ref="index"/>
+    <file name="grupo 1 - copia.png" crc="3969515518" seo="true" ref="index"/>
+    <file name="cabeçalho.jpg" crc="4060264678" seo="true" ref="index"/>
+    <file name="contatos.gif" crc="4267795621" seo="true" ref="index"/>
+    <file name="assine.jpg" crc="3859241555" seo="true" ref="index"/>
+    <file name="cobertura.jpg" crc="4115474525" seo="true" ref="index"/>
+    <file name="planos.jpg" crc="437046173" seo="true" ref="index"/>
+    <file name="aviso.jpg" crc="4098093671" seo="true" ref="index"/>
+    <file name="bloqueio.jpg" crc="433062207" seo="true" ref="index"/>
+    <file name="logo2.png" crc="4186128604" seo="true" ref="index"/>
+    <file name="fale-conosco.png" crc="3987417769" seo="true" ref="index"/>
+    <file name="email.png" crc="415800402" seo="true" ref="index"/>
+    <file name="whats.png" crc="4184231769" seo="true" ref="index"/>
+    <file name="pin.png" crc="4261160183" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="441636731" seo="true" mt="1579468801487" redirect="true"/>
+</manifest>
